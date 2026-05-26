@@ -14,7 +14,7 @@ Passionate Software Engineer focused on building impactful digital solutions thr
 - Backend: PHP, Python
 - Tools: Git, GitHub, Figma, npm, Swagger, Selenium
 - Deployment: Vercel, Render
-- 
+  
 ## Currently Exploring
 AI and Machine Learning Applications
 Backend Architecture & APIs
