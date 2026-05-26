@@ -13,7 +13,7 @@ Passionate Software Engineer focused on building impactful digital solutions thr
 - Frontend: React, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind
 - Backend: PHP, Python
 - Tools: Git, GitHub, Figma, npm, Swagger, Selenium
-- Deployment: Vercel, Render
+- Deployment: Vercel, Render, cpanel
   
 ## Currently Exploring
 AI and Machine Learning Applications
