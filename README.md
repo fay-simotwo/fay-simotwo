@@ -16,10 +16,10 @@ Passionate Software Engineer focused on building impactful digital solutions thr
 - Deployment: Vercel, Render, cpanel
   
 ## Currently Exploring
-### AI and Machine Learning Applications
-### Backend Architecture & APIs
-### Clean UI/UX Design
-### Open Source Collaboration
+- AI and Machine Learning Applications
+- Backend Architecture & APIs
+- Clean UI/UX Design
+- Open Source Collaboration
 
 
 “Keep learning, keep building, keep growing.”
